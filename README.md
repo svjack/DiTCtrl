@@ -39,15 +39,23 @@
 <br>
 
 ### Longer Single-Prompt Text-to-video Generation
+Our method can naturally work on single-prompt longer video generation by setting sequential multi-prompts as the same. This shows that our method can enhance the consistency of single prompt in long video generation.
 
 ![sp_demo](assets/sp_oneline.gif)
 
 <br>
 
 ### Video Editing
-
+Removing our latent blending strategy of our approach DiTCtrl,
+we can achieve the video editing performance of Word Swap like [prompt-to-prompt](https://github.com/google/prompt-to-prompt).
+Specifically, we just use KV-sharing strategy,
+so that we can synthesize a new video to preserve the original composition while also addressing the content of the new prompt P_target.
 ![word_swap](assets/word_swap_2.gif)
 
+Similar to [prompt-to-prompt](https://github.com/google/prompt-to-prompt), 
+through reweighting the specific columns and rows corresponding to specified token (e.g. "pink") 
+in the MM-DiT's Text-Video attention and Video-Text attention, 
+we can also achieve the video editing performance of reweight.
 ![video_reweight](assets/video_reweight_1.gif)
 
 
