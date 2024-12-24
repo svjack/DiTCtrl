@@ -1,0 +1,6 @@
+args:
+  seed: 42
+  single_prompt_length: 5  # means generating five times the length
+  output_dir: outputs/single_prompt_case/fish
+  prompts:
+    - "A vibrant school of tropical fish weaves through an intricate coral reef system, their scales shimmering like jewels in the filtered sunlight. Brilliant parrotfish, angelfish, and clownfish create a living rainbow as they navigate between branches of staghorn coral and giant sea fans. Rays of sunlight pierce the crystal-clear water, creating dancing light patterns on the coral below. The reef itself is alive with color, from delicate pink anemones to electric blue coral polyps, while tiny reef fish dart in and out of their coral sanctuaries, ultra high quality, 2K."

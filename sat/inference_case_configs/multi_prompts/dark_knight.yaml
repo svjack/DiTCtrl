@@ -1,0 +1,10 @@
+args:
+  adaln_mixin_names:
+    - 'KVSharingMaskGuidedAdaLNMixin'
+  seed: 42
+  output_dir: outputs/multi_prompt_case/dark_knight
+  ref_token_idx: [0, 1, 2]
+  cur_token_idx: [0, 1, 2]
+  prompts:   
+    - "A dark knight rests motionless atop a majestic black horse in the middle of a vast grassland. The rider's armor gleams dully in the diffused light, while tall grass sways gently in the breeze. The overcast sky creates a moody atmosphere as the horse and rider remain still, surveying the expansive landscape that stretches to the horizon."
+    - "A dark knight guides the majestic black horse at a steady gallop across a snow-covered field. The rider's armor contrasts sharply against the white landscape, while snowflakes swirl in their wake. The overcast sky and blanket of snow create a stark winter atmosphere as the horse and rider move purposefully through the pristine terrain."

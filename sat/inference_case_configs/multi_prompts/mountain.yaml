@@ -1,0 +1,6 @@
+args:
+  seed: 42
+  output_dir: outputs/multi_prompt_case/mountain
+  prompts:
+    - "The majestic snow-covered mountains stand tall under a crystal-clear blue sky. The bright sun illuminates the peaks, making the snow glisten brilliantly. The camera pans across the ridges, revealing pristine white slopes and jagged rock faces. Wisps of clouds drift lazily around the mountaintops, while the warm sunlight casts sharp shadows across the snow-covered terrain."
+    - "The majestic snow-covered mountains stand silent under the dark night sky. The peaks are silhouetted against a backdrop of countless stars, their snowy surfaces dimly illuminated by moonlight. The camera pans across the shadowy ridges, where the snow takes on a silvery glow in the darkness. The mountain's presence feels even more dramatic against the deep, dark expanse of the night sky."

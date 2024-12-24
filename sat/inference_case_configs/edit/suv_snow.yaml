@@ -1,0 +1,8 @@
+args:
+  seed: 123
+  output_dir: outputs/edit_case/suv_snow
+  sampling_fps: 8
+  is_edit: True
+  prompts:   
+    - "The camera is positioned ahead on a steep snow-covered road, capturing a white vintage SUV with a black roof rack maintaining a consistent distance as it drives along the path. The vehicle stays centered in frame, with snow spraying up from the tires as it powers through the icy terrain. The surrounding pine trees tower on either side, their branches heavy with snow. The snow-covered road winds behind the vehicle, and the camera moves backward at the same pace, creating a smooth and stable shot that showcases the SUV as it expertly maneuvers through the winter landscape. Above, the sky is pale and overcast, with muted sunlight struggling to break through the thick clouds, creating a serene yet chilly atmosphere in this winter journey."
+    - "The camera is positioned ahead on a steep snow-covered road, capturing a red vintage SUV with a black roof rack maintaining a consistent distance as it drives along the path. The vehicle stays centered in frame, with snow spraying up from the tires as it powers through the icy terrain. The surrounding pine trees tower on either side, their branches heavy with snow. The snow-covered road winds behind the vehicle, and the camera moves backward at the same pace, creating a smooth and stable shot that showcases the SUV as it expertly maneuvers through the winter landscape. Above, the sky is pale and overcast, with muted sunlight struggling to break through the thick clouds, creating a serene yet chilly atmosphere in this winter journey."

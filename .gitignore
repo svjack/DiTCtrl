@@ -1,0 +1,13 @@
+*__pycache__/
+samples*/
+runs/
+checkpoints/
+master_ip
+logs/
+*.DS_Store
+.idea
+output*
+test*
+sat/CogVideoX-2b-sat/
+sat/CogVideoX-5b-sat/
+sat/outputs/

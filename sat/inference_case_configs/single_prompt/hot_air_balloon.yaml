@@ -1,0 +1,6 @@
+args:
+  seed: 42
+  single_prompt_length: 5  # means generating five times the length
+  output_dir: outputs/single_prompt_case/hot_air_balloon
+  prompts:
+    - "A magnificent hot air balloon ascends into the dawn sky, its vibrant envelope illuminated by the first rays of sunrise. The golden light paints the clouds in spectacular shades of pink and orange, while the landscape below gradually emerges from darkness. Mist clings to the valleys, creating an ethereal atmosphere as the balloon drifts silently above. The morning light catches the rising steam from the burners, creating a magical glow around the basket. The vast, peaceful landscape stretches out below, slowly revealing its details in the growing light, high quality, 4K."

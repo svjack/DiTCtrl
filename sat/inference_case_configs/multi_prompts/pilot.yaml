@@ -1,0 +1,8 @@
+args:
+  seed: 42
+  overlap_size: 6
+  num_transition_blocks: 1 # 1 if overlap_size is 6 or 2 if overlap_size is 9
+  output_dir: outputs/multi_prompt_case/pilot
+  prompts:
+    - "A pilot meticulously checks the instruments and controls inside the cockpit of an airplane on the runway. Dials, gauges, and screens display vital information as the pilot ensures everything is in order. The hum of the engines can be felt, and the co-pilot assists with the pre-flight checklist. The atmosphere is professional and precise, prioritizing safety and readiness."
+    - "A pilot navigates the aircraft over majestic mountain ranges high above the clouds. Snow-capped peaks stretch out below, and the sun casts a brilliant light across the landscape. The cockpit offers panoramic views as the pilot adjusts the course smoothly. Instruments indicate optimal flight conditions, and the journey is steady. The experience is awe-inspiring, capturing the wonders of flight."

@@ -1,0 +1,6 @@
+args:
+  seed: 42
+  output_dir: outputs/multi_prompt_case/street
+  prompts:
+    - "A quiet street is transformed by a heavy snowstorm, with thick flakes falling steadily from the gray sky. The buildings and trees are blanketed in white, and the road is covered with untouched snow. Streetlights cast a soft glow, their light diffused by the snowfall. Footsteps and tire tracks are scarce, as most people have retreated indoors. The air is cold and crisp, and the only sounds are the muffled whispers of the wind."
+    - "A busy street thrives under the bright sun of a clear day. Buildings stand tall against the blue sky, their windows reflecting the sunlight. The sidewalks are bustling with people, and traffic moves steadily along the road. Trees lining the street are full of green leaves, offering shade to pedestrians. The air is warm, filled with the sounds of conversation, car horns, and the general hum of city life. The atmosphere is vibrant and energetic."

@@ -1,0 +1,7 @@
+args:
+  seed: 33
+  output_dir: outputs/multi_prompt_case/view_snow
+  prompts:
+    - "A crystalline close shot of a frost-kissed pine branch, where the camera gracefully pulls back to unveil delicate ice crystals clinging to emerald needles, each branch bowing elegantly under its pristine winter blanket."
+    - "A serene medium shot of the majestic pine, where the camera smoothly retreats to reveal its full snow-draped silhouette standing proudly among a chorus of frost-touched evergreens, their branches swaying gently in the winter breeze."
+    - "A sweeping full shot of the tranquil forest vista, where the camera glides further backward to capture a mesmerizing grove of snow-crowned pines rising from the powder-white earth, their dark forms etched against the misty mountain foothills that emerge in the distance."

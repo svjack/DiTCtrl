@@ -1,0 +1,8 @@
+args:
+  seed: 33
+  output_dir: outputs/edit_case/fox_wolf
+  sampling_fps: 8
+  is_edit: True
+  prompts:   
+    - "a white fox in the snow"
+    - "a gray wolf in the snow"

@@ -1,0 +1,7 @@
+args:
+  seed: 42
+  output_dir: outputs/multi_prompt_case/boy_riding
+  prompts:
+    - "4K, high quality, A young boy rides a bicycle through a dimly lit stone corridor of an ancient castle, where the camera follows closely behind him as torches on the walls cast dancing shadows on the weathered stones and arched ceiling."
+    - "4K, high quality, A young boy rides a bicycle towards the castle's massive wooden doors, where the camera follows him as streams of bright sunlight begin to pour through the gradually opening entrance, revealing glimpses of greenery beyond."
+    - "4K, high quality, A young boy rides a bicycle onto a stone-paved path, where the camera follows him as he emerges from the castle into a vast garden filled with blooming flowers and ancient trees, their leaves dancing in the warm sunlight."
