@@ -18,7 +18,7 @@
 <br>
 &dagger;: Intern at ARC Lab, Tencent PCG, &#9993;: Corresponding Authors
 
-<a href='https://arxiv.org'><img src='https://img.shields.io/badge/ArXiv-Coming soon-red'></a> 
+<a href='https://arxiv.org/abs/2412.18597'><img src='https://img.shields.io/badge/ArXiv-2412.18597-red'></a> 
 <a href='https://onevfall.github.io/project_page/ditctrl/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 
@@ -281,7 +281,7 @@ When you run the command, it will generate the video in the `outputs/multi_promp
 @article{cai2024ditctrl,
   title     = {DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation},
   author    = {Cai, Minghong and Cun, Xiaodong and Li, Xiaoyu and Liu, Wenze and Zhang, Zhaoyang and Zhang, Yong and Shan, Ying and Yue, Xiangyu},
-  journal   = {arXiv preprint},
+  journal   = {arXiv:2412.18597},
   year      = {2024},
 }
 ```
