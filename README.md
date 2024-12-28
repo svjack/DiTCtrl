@@ -226,6 +226,12 @@ sat/
   bash run_multi_prompt.sh
 ```
 
+
+
+https://github.com/user-attachments/assets/844d8612-fde2-4b8a-9d11-7e48931c24f9
+
+
+
 ### 2. Longer Single-Prompt Text-to-Video
 
 ```bash
