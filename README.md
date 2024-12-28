@@ -106,8 +106,11 @@ cd DiTCtrl
 
 conda create -n ditctrl python=3.10
 conda activate ditctrl
+pip install ipykernel
+python -m ipykernel install --user --name ditctrl --display-name "ditctrl"
 
-pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
+#pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
+pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1
 
 pip install -r requirements.txt
 
