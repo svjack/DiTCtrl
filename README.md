@@ -102,7 +102,8 @@ Extensive experiments demonstrate that our method achieves state-of-the-art perf
 Our method is tested using CUDA12, on a single A100 or V100.
 
 ```bash
-cd DiTCtrl
+sudo apt-get update && sudo apt-get install git-lfs ffmpeg cbm
+git clone https://github.com/svjack/DiTCtrl && cd DiTCtrl
 
 conda create -n ditctrl python=3.10
 conda activate ditctrl
